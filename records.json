@@ -218,5 +218,104 @@
 "title": "Queso"
       }
     }
+  },
+  {
+    "n": {
+"identity": 20,
+"labels": [
+        "Time"
+      ],
+"properties": {
+"title": "fast"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 21,
+"labels": [
+        "Time"
+      ],
+"properties": {
+"title": "slow"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 22,
+"labels": [
+        "Time"
+      ],
+"properties": {
+"title": "medium"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 23,
+"labels": [
+        "Nutricion"
+      ],
+"properties": {
+"title": "alta"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 24,
+"labels": [
+        "Nutricion"
+      ],
+"properties": {
+"title": "baja"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 25,
+"labels": [
+        "Nutricion"
+      ],
+"properties": {
+"title": "media"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 26,
+"labels": [
+        "Precio"
+      ],
+"properties": {
+"title": "barato"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 27,
+"labels": [
+        "Precio"
+      ],
+"properties": {
+"title": "caro"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 28,
+"labels": [
+        "Precio"
+      ],
+"properties": {
+"title": "medio"
+      }
+    }
   }
 ]
