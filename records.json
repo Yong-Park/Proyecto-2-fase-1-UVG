@@ -1,0 +1,222 @@
+﻿[
+  {
+    "n": {
+"identity": 0,
+"labels": [
+        "food"
+      ],
+"properties": {
+"title": "pizza"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 1,
+"labels": [
+        "food"
+      ],
+"properties": {
+"title": "Sushi"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 2,
+"labels": [
+        "food"
+      ],
+"properties": {
+"title": "Pasta"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 3,
+"labels": [
+        "food"
+      ],
+"properties": {
+"title": "Lasaña"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 4,
+"labels": [
+        "food"
+      ],
+"properties": {
+"title": "Ensalada"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 5,
+"labels": [
+        "food"
+      ],
+"properties": {
+"title": "Ensalada de pollo"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 6,
+"labels": [
+        "food"
+      ],
+"properties": {
+"title": "Ensalada de Atun"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 7,
+"labels": [
+        "food"
+      ],
+"properties": {
+"title": "Tacos"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 8,
+"labels": [
+        "food"
+      ],
+"properties": {
+"title": "Tacos de res"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 9,
+"labels": [
+        "food"
+      ],
+"properties": {
+"title": "Tacos al pastor"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 10,
+"labels": [
+        "food"
+      ],
+"properties": {
+"title": "Hamburguesa"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 11,
+"labels": [
+        "food"
+      ],
+"properties": {
+"title": "Mariscos"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 12,
+"labels": [
+        "food"
+      ],
+"properties": {
+"title": "Pan"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 13,
+"labels": [
+        "food"
+      ],
+"properties": {
+"title": "Curry"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 14,
+"labels": [
+        "food"
+      ],
+"properties": {
+"title": "Chaomin"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 15,
+"labels": [
+        "food"
+      ],
+"properties": {
+"title": "Lechuga"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 16,
+"labels": [
+        "food"
+      ],
+"properties": {
+"title": "Tomate"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 17,
+"labels": [
+        "food"
+      ],
+"properties": {
+"title": "Carne"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 18,
+"labels": [
+        "food"
+      ],
+"properties": {
+"title": "Milanesa"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 19,
+"labels": [
+        "food"
+      ],
+"properties": {
+"title": "Queso"
+      }
+    }
+  }
+]
